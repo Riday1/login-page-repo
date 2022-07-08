@@ -1,6 +1,8 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: sans-serif;
+    ;
 }
 
 .section-1 {
@@ -14,7 +16,7 @@
 
 .container {
     width: 25%;
-    height: 300px;
+    height: 333px;
     background: white;
     ;
     border-radius: 10px;
